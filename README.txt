@@ -23,6 +23,7 @@ Demographic Insights:
 	Drivers over the age of 25, accompanied by friends, and who visit bars more than three times a month are more likely to accept bar coupons. 
 	Drivers under the age of 25 or those with children as passengers are less likely to accept bar coupons. 
 	Factors such as the legal drinking age (21) could significantly impact coupon acceptance rates.
+	Unemployed customers are also more likely to accept a coupon
 
 Behavioral Patterns:
 
@@ -39,11 +40,13 @@ Coffee House Coupons Analysis:
 Behavioral Insights: 
 	
 	Excluding individuals who visit coffee houses less than once a month 
-	and focusing on coupons en route to their destinations increases the acceptance rate to nearly 70%. 
+	and focusing on coupons en-route to their destinations increases the acceptance rate to nearly 70%. 
+	Coupons that are closer to the driver are more likely to be accepted
 	
 Expiration vs. Delivery Time: 
 	Coupons with a 1-day expiration have a higher acceptance rate compared to those with a 2-hour expiration. 
 	The 2-hour expiration coupons show the highest acceptance rate at 10 AM.
+
 
 Next Steps and Recommendations:
 
